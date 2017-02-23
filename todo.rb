@@ -28,7 +28,7 @@ helpers do
   end
 
   def list_class(list)
-    "complete" if list_complete(list)
+    "complete" if list_complete?(list)
   end
 
   def total_uncompleted(list)
