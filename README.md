@@ -1,7 +1,3 @@
-# 170 Web Development: Personal Task Manager Application
+# Task Manager Application
     
-Skills practiced in the lesson include:
-* Building a Larger Sinatra Application
-* Storing Data in a Session
-* Using HTTP methods
-* Including JavaScript Files into a Sinatra Application
+This application keeps track of daily todo lists. You can create lists, add items, delete them, complete, and more. I used this project to practice building a larger Sinatra application, storing data in a session, and using HTTP methods.
